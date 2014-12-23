@@ -3,14 +3,11 @@ Tweak
 
 A little Perch CMS control panel theme.
 
-Screen Shots
-------------
-
-![Tweak Login Form](http://28bytes.com/uploads/tweakloginform.jpg)
+![Tweak Login Form](http://28bytes.com/uploads/tweaklogins.jpg)
 
 New Login Form - can use solid background color or background image.
 
-![Tweak Login Form](http://28bytes.com/uploads/tweakadminrounded.png)
+![Tweak Rounded Corners](http://28bytes.com/uploads/tweakadminrounded.png)
 
 Rounded Corners - all drop downs, smart bars, and alerts now have rounded corners.
 
