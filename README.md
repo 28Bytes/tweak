@@ -1,7 +1,7 @@
 Tweak
 =====
 
-A little Perch CMS control panel theme.
+A little Perch CMS admin theme.
 
 ![Tweak Login Form](http://28bytes.com/uploads/tweaklogins.jpg)
 
@@ -25,4 +25,6 @@ Then add the following line to your _config.inc file
 ~~~
 <link href="/perch/addons/plugins/ui/tweak.css" rel="stylesheet" />
 ~~~
+
+After your up and running feel free to **tweak** as needed.
 
